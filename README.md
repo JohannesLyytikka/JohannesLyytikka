@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohannesLyytikka
 - 👀 I’m interested in medicine, coding, reading, running, cycling, swimming and climbing. 
-- 🌱 I’m currently learning the more advanced parts of JavaScript coding.
+- 🌱 I’m currently learning the more advanced parts of JavaScript.
 - 📫 You can reach me best by email.
 
 <!---
