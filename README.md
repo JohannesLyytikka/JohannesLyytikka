@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohannesLyytikka
-- 👀 I’m interested in medicine, coding, reading, running, cycling, swimming and climbing. 
+- 👀 I’m passionate about medicine, coding, climbing, reading, running, cycling and swimming. 
 - 📫 You can reach me best by email.
 
 <!---
